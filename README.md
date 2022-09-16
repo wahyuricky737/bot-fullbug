@@ -6,7 +6,7 @@
 
 </br>
 <p align="center">
-<a href="https://github.com/PitoDevID"><img title="Author" src="https://img.shields.io/badge/Author-PitoDevID-red.svg?color=ff0000&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/PitoDevID"><img title="Author" src="https://img.shields.io/badge/Author-KrisHost-red.svg?color=ff0000&style=for-the-badge&logo=github" /></a>  
 </p>
 
 ## <samp> Attention please </samp>
